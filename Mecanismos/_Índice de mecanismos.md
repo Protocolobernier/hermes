@@ -8,7 +8,7 @@ Cada mecanismo se desglosa en **eslabones**, y cada eslabón se gradúa:
 
 ## Listado
 
-- *(vacío — añade tu primer mecanismo)*
+- [[Eje HMGB1-RAGE]] — el bucle central de este vault (HMGB1 → RAGE → inflamación no resolutiva). 6 eslabones graduados; cadena núcleo 🟢 demostrada con evidencia in vivo.
 
 ---
 
