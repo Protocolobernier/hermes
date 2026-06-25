@@ -4,7 +4,7 @@ Una nota por artículo primario. Plantilla recomendada abajo.
 
 ## Listado
 
-- *(vacío — añade tu primer paper)*
+- [[Bennett-Guerrero 2009 - ensayo clinico negativo]] — fase II de piruvato de etilo en cirugía cardíaca: **negativo**. El corte de traslación del fármaco. PMID 18835526.
 
 ---
 
