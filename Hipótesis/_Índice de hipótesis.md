@@ -4,7 +4,7 @@ Las sobre-extrapolaciones se reformulan aquí como **hipótesis originales y tes
 
 ## Listado
 
-- *(vacío — añade tu primera hipótesis)*
+- [[Inhibicion vertical trifarmaco HMGB1-RAGE]] — EP + metformina + trimebutina en 3 nodos. Sinergia plausible pero 🔴 no probada; el punto crítico es **supresión ≠ resolución** del macrófago endotóxico.
 
 ---
 
