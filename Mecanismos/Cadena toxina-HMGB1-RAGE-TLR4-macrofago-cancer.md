@@ -14,6 +14,19 @@ fecha: 2026-06-24
 
 ---
 
+## ⚠️ Principio rector: HMGB1 es un CARRIER, no un efector desnudo (cómo leer TODA la literatura)
+
+El eje de este modelo: **HMGB1 no actúa solo — es un "caballo de Troya".** Liberada por daño tisular, **se le pegan** los PAMPs del entorno (LPS, toxinas, virus) y la entidad biológicamente activa es el **complejo HMGB1·cargo**, que señaliza vía RAGE/TLR4 y es internalizado por el macrófago.
+
+**Crítica epistemológica que rige la lectura de todo paper de HMGB1:** la mayoría de los estudios **NO verifican si su preparación de HMGB1 estaba contaminada** con LPS u otros PAMPs. Por eso, efectos atribuidos a "HMGB1 solo" pueden ser del **complejo HMGB1·(contaminante que llevaba pegado)**. El campo lleva 20 años estudiando al **vehículo** y atribuyéndole lo que hace el **pasajero**.
+
+- **No TODO efecto es contaminación** (RAGE une HMGB1 directamente), pero **no se puede saber cuál lo es sin control de endotoxina** (LAL + polimixina B). Afirmación defendible = sobre-atribución del campo.
+- **Carrier probado:** Youn et al., *J Immunol* 2008 (PMID **18354232**) — HMGB1 une lipid A y **transfiere LPS al CD14**; HMGB1+LPS da más TNF-α que la suma de cada uno (sinergia). Bianchi 2009 (PMID **19414536**): *"HMGB1 loves company."*
+- **Confound documentado en otras proteínas:** PMID **15802626** (la "activación por CRP" era artefacto de LPS+azida) y PMID **14579737** (eliminar endotoxina abolió la actividad de una proteína recombinante).
+- **Implicación para los eslabones 3–5 de abajo:** los papers que atribuyen "HMGB1 polariza a M2" **no separan HMGB1 de HMGB1·cargo**. **Predicción testeable del modelo:** repetir esos ensayos con HMGB1 endotoxin-free (LAL+polimixina) vs HMGB1·LPS — si el efecto M2 requiere el cargo, el modelo queda validado y la atribución "HMGB1 solo" queda refutada en esos estudios.
+
+---
+
 ## La cadena (graduada)
 
 ### Eslabón 1 — Daño tisular libera HMGB1; HMGB1 arrastra la endotoxina (caballo de Troya)
